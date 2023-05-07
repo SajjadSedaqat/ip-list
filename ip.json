@@ -32,6 +32,18 @@
   ],
   "MCI": [
     {
+      "delay": 0,
+      "downloadDelay": 0,
+      "uploadDelay": 1353,
+      "ip": "203.23.106.99"
+    },
+    {
+      "delay": 0,
+      "downloadDelay": 0,
+      "uploadDelay": 1321,
+      "ip": "104.31.16.2"
+    },
+    {
       "delay": 1804,
       "ip": "45.85.119.87"
     },
@@ -50,18 +62,6 @@
     {
       "delay": 1939,
       "ip": "185.176.24.40"
-    },
-    {
-      "delay": 0,
-      "downloadDelay": 0,
-      "uploadDelay": 1353,
-      "ip": "203.23.106.99"
-    },
-    {
-      "delay": 0,
-      "downloadDelay": 0,
-      "uploadDelay": 1321,
-      "ip": "104.31.16.2"
     }
 
   ],
