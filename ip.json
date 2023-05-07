@@ -42,6 +42,12 @@
       "downloadDelay": 0,
       "uploadDelay": 1321,
       "ip": "104.31.16.2"
+    },
+    {
+      "delay": 0,
+      "downloadDelay": 0,
+      "uploadDelay": 1376,
+      "ip": "185.162.230.5"
     }
 
   ],
