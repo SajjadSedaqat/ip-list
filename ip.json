@@ -34,14 +34,18 @@
       "delay": 0,
       "downloadDelay": 0,
       "uploadDelay": 1761,
-      "ip": "188.114.96.23"
+      "ip": "45.142.120.5"
     },
     {
       "delay": 0,
       "downloadDelay": 0,
       "uploadDelay": 1761,
       "ip": "104.31.16.20"
-    }
+    },{
+      "ip": "188.114.96.250"
+    }, {
+      "ip": "95.179.142.63"
+    } 
 
   ],
   "Khalij": [
